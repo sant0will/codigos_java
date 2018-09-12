@@ -1,0 +1,27 @@
+
+
+1 – Faça um programa utilizando arrayList que permita: inserir alunos de uma escola, consultar se um aluno específico está na lista, inserir alunos no meio da lista em uma posição específica, remover qualquer aluno que está na lista e consultar a qualquer momento.
+
+2 – Leia uma arrayList de 20 posições inteiras e a coloque em ordem crescente, utilizando a seguinte estratégia de ordenação (seleção direta):
+* Selecione o elemento do vetor que apresenta o menor valor;
+* Troque este elemento pelo primeiro;
+* Repita estas operações, envolvendo agora apenas os 19 elementos restantes (trocando o de menor valor com a segunda posição, depois os 18 elementos (trocando o de menor valor com a terceira posição), depois os 17, os 16 e assim por diante, até restar um único elemento, o maior deles.
+
+3 - Faça um programa que receba uma única String de números inteiros separados por ’;’(ponto e vírgula). Apresente o maior e o menor número dessa String.// Dica: utilize o método split() da classe String.
+
+4 - Implemente um programa que solicite ao usuário uma frase e diga se esta é um palíndromo.//. Dica: converta a String em um vetor de char.
+
+5 - Implemente um programa que solicite ao usuário uma frase e inverta a ordem das palavras. Ex: Frase: aula até meio dia. Exiba: dia meio até aula. Monte a nova String, utilizando a classe StringBuilder e o seu método append().
+
+6 - Implemente um programa que solicite ao usuário uma frase. Apresente a frase informada pelo usuário substituindo todos os caracteres ’a’ por ’*’. Ex: Frase: Ana foi a boate.
+Exiba: An* foi * bo*te. Dica: utilize os métodos da classe StringBuilder
+
+
+
+Instituto Federal Catarinense	
+Bacharelado em Ciência da Computação
+Linguagem de Programação I			
+Professor: Diego Ricardo Krohl
+					
+Exercícios – Lista 5
+

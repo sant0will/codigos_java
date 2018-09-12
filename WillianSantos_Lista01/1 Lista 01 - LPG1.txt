@@ -1,0 +1,33 @@
+
+1 – Faça um programa em JAVA para ler dois números inteiros, x e y, e imprimir o quociente e o resto da divisão inteira entre eles.
+
+2 - Faça um programa em Java que lê três números reais do teclado e apresenta na tela a média destes números.
+
+3 - Faça um programa em JAVA que pede para o operador digitar o nome de uma pessoa, sua idade e seu salário (float). Em seguida o programa deve imprimi-los na tela.
+
+4 - Escreva um programa em JAVA para ler o raio de um círculo, calcular e escrever a sua área.
+
+5 - Escreva um programa em JAVA para ler uma temperatura em graus Fahrenheit, calcular e escrever o valor correspondente em graus Celsius.
+
+6 - Escreva um programa em JAVA para calcular e imprimir o número de lâmpadas necessárias para iluminar um determinado cômodo de uma residência. Dados de entrada: a potência da lâmpada utilizada (em watts), as dimensões (largura e comprimento, em metros) do cômodo. Considere que a potência necessária é de 18 watts por metro quadrado.
+
+7 - Escreva um programa em JAVA para ler as dimensões de uma cozinha retangular (comprimento, largura e altura), calcular e escrever a quantidade de caixas de azulejos para se colocar em todas as suas paredes (considere que não será descontada a área ocupada por portas e janelas). Cada caixa de azulejos possui 1,5 m2.
+
+8 - A equipe Benneton-Ford deseja calcular o número mínimo de litros que deverá colocar no tanque de seu carro para que ele possa percorrer um determinado número de voltas até o primeiro reabastecimento. Escreva um programa em JAVA que leia o comprimento da pista (em metros), o número total de voltas a serem percorridas no grande prêmio, o número de reabastecimentos desejados e o consumo de combustível do carro (em Km/L). Calcular e escrever o número mínimo de litros necessários para percorrer até o primeiro reabastecimento. OBS: Considere que o número de voltas entre os reabastecimentos é o mesmo.
+
+
+
+
+
+9 – Faça um	programa em JAVA que pergunte quanto você ganha por hora e o número de horas	trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos mostre:
+a) salário bruto;
+b) quanto pagou ao	 INSS;
+c) quanto pagou ao	 sindicato;
+d) o salário líquido.
+Instituto Federal Catarinense	
+Bacharelado em Ciência da Computação
+Linguagem de Programação I			
+Professor: Diego Ricardo Krohl
+					
+Exercícios – Lista 1
+

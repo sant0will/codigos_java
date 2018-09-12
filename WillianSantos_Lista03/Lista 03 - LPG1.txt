@@ -1,0 +1,36 @@
+
+
+1 – Faça um programa em JAVA que lê dois números inteiros do teclado, testa se o primeiro é menor que o segundo, se for imprime todos os números do intervalo entre eles.
+
+2 - Faça um programa em JAVA que lê um número real do teclado e calcula o fatorial deste número. (ex: 5! é igual a 5 * 4 * 3 * 2 * 1 = 120).
+
+3 - Faça um programa em JAVA que leia um número indeterminado de idades. A última idade lida, que não entrará nos cálculos, deverá ser igual a zero. Ao final programa deverá escrever quantas idades foram lidas, calcular e escrever a média de idade desse grupo de idades.
+
+4 - Faça um programa em JAVA para ler a altura e o sexo (feminino, masculino) de 10 pessoas. Calcular e escrever:
+      - A maior e a menor altura;
+      - A média de altura das mulheres;
+ 	- A porcentagem de homens;
+
+5 - Número primo é aquele que só é divisível por ele mesmo e por 1. Faça um programa em JAVA que determine e escreva os números primos compreendidos entre 100 e 1000.
+
+6 - Escreva um programa em JAVA que lê um número inteiro do teclado e imprime todos os seus divisores de resto 0.
+
+7 - Faça um programa em JAVA que deve ficar lendo uma letra por vez do teclado até que o operador digite a letra x. Após o operador digitar x o programa deve apresentar na tela o número de vezes que o operador digitou dois caracteres iguais em sequencia.
+
+8 - Faça um programa em JAVA que apresente quatro opções: (a) consulta saldo, (b) saque, (c) depósito, (d) saldo e (e) sair. O saldo deve iniciar em R$ 0,00. A cada saque ou depósito o valor do saldo deve ser atualizado e apresentado na tela.
+
+9 – Foi feita uma pesquisa entre os habitantes de uma região. Foram coletados os dados de idade, sexo (M/F) e salário. Faça um programa em JAVA que calcule e mostre: A média dos salários; A maior e a menor idade; A quantidade de mulheres com salário até R$ 2000,00; Finalize a entrada de dados ao ser digitada uma idade negativa.  
+
+10 - Um determinado material radioativo perde metade de sua massa a cada 50 segundos. Dada a massa inicial, em gramas, fazer um programa em JAVA que calcule o tempo necessário para que essa massa se torne menor que 0,5 gramas. O programa deve escrever a massa inicial, a massa final e o tempo calculado em horas, minutos e segundos.
+
+11 - Um caixa eletrônico opera com notas de 50, 10, 5 e 2. Como medida de segurança, a cada vez que o cliente deseja sacar dinheiro, o valor é dado de forma a fornecer um pequeno volume de notas (supondo que o cliente sempre esteja dentro do seu limite).
+Esta medida é feita para que a quantidade sacada não “faça muito volume” quando guardada pelo cliente. Por exemplo, se o cliente quiser sacar R$166,00 não são dadas 83 notas de 2; são dadas 3 notas de 50, 1 nota de 10 e 3 notas de 2. Assim, a resposta a ser impressa é 3 1 0 3.
+Faça um programa em JAVA que leia a quantia (valor inteiro positivo) a ser sacada e imprima as quantidades de notas de 50, 10, 5 e 2 a serem fornecidas aos clientes.
+
+Instituto Federal Catarinense	
+Bacharelado em Ciência da Computação
+Linguagem de Programação I			
+Professor: Diego Ricardo Krohl
+					
+Exercícios – Lista 3
+

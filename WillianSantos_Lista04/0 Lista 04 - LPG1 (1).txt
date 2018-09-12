@@ -1,0 +1,47 @@
+1
+
+1 – Faça um programa em JAVA que cria um vetor com 5 elementos inteiros, lê 5 números do teclado, armazena os números no vetor e imprime o vetor na ordem inversa.
+
+2 – Faça um programa em JAVA que leia um vetor de 12 posições e em seguida ler também dois valores X e Y quaisquer correspondentes a duas posições no vetor. Ao final seu programa deverá escrever a soma dos valores encontrados nas respectivas posições X e Y.
+
+3 - Faça um programa em JAVA que leia um vetor de 16 posições e troque os 8 primeiros valores pelos 8 últimos e vice-e-versa. Escreva ao final o vetor obtido.
+
+4 - Faça um programa em JAVA que leia um vetor de 20 posições e em seguida um valor X qualquer. Seu programa devera fazer uma busca do valor de X no vetor lido e informar a posição(ões) em que foi encontrado ou se não foi encontrado.
+
+5 - Faça um programa em JAVA que leia um vetor de 40 posições e atribua valor 0 para todos os elementos que possuírem valores negativos.
+
+6 – Faça um programa em JAVA que leia um vetor de 3 posições contendo os caracteres de um numero. Em seguida escreva esse numero por extenso.
+
+7 - Faça um programa em JAVA que leia um vetor de 10 posições e verifique se existem valores iguais e os escreva.
+
+8 - Faça um programa em JAVA que leia um vetor de 50 posições e o compacte, ou seja, elimine as posições com valor zero avançando uma posição, com os com os valores subsequentes do vetor. Dessa forma todos “zeros” devem ficar para as posições finais do vetor.
+
+9 - Faça um programa em JAVA que irá ler 35 salários e 35 códigos de identificação de empregados. Estes dados devem ficar armazenados em vetores   diferentes. Após lidos os 35 dados pares de dados, mostrar quais são os códigos dos funcionários que ganham acima de R$ 880,00.
+
+10 - Faça um programa em JAVA para ler inicialmente o nome, o preço, a quantidade e o código de 10 produtos e armazenar estes itens em vetores. Cada produto tem um código entre 0 e 9 e  os códigos são únicos. Depois que os dados dos produtos forem armazenados, perguntar o código de um produto, perguntar se foi venda ou compra e a quantidade (vendida / comprada) e alterar os vetores correspondentes. Continuar perguntando até que o usuário informe um código composto por um número negativo. Após terminada a  movimentação, mostrar a lista de produtos com o código, descrição, preço unitário e quantidade em estoque e o valor total do estoque de cada item. Imprimir também o valor total do estoque para todos os itens juntos.
+
+11 - Uma determinada empresa deseja controlar as vendas de seus 10 principais produtos ao longo do ano. Para isto você deverá criar 12 vetores – 1 para cada mês do ano que armazenará a quantidade adequada de produtos. O programa deverá pedir a quantidade vendida de cada produto mês a mês. Cada posição do vetor conterá a quantidade vendida do produto no mês. Ao final o programa deverá mostrar a quantidade vendida de cada produto no primeiro semestre e no segundo semestre.
+
+Matrizes
+
+12 - Faça um programa em JAVA que declare uma matriz 10X10 posições e preencha os elementos do com os valores da soma para aquele elemento, de forma que, por exemplo, o elemento [7][9] valha 16. E uma outra também 10X10 que seja completada pela multiplicação de i e j. Ex: [7][8] = 56.
+
+13 - Leia uma matriz 10 x 10 e escreva a localização (linha e a coluna) do maior valor.
+
+14 - Declare uma matriz 5 x 5. Preencha com 1 a diagonal principal e com 0 os demais elementos. Escreva ao final a matriz obtida.
+
+15 - Leia uma matriz 50 x 2, onde cada coluna corresponde a um lado de um triangulo retângulo. Declare um vetor que contenha a área dos respectivos triângulos e o escreva.
+
+16 - Leia uma matriz 8 x 8 e a transforme numa matriz triangular inferior , atribuindo zero a todos os elementos acima da diagonal principal, escrevendo-a ao final.
+
+17 - Leia uma matriz 100 x 10 que se refere respostas de 10 questões de múltipla escolha, referentes a 100 alunos. Leia também um vetor de 10 posições contendo o gabarito d e respostas que podem ser a, b, c ou d. Seu programa deverá comparar as respostas de cada candidato com o gabarito e emitir um vetor Resultado, contendo a pontuação correspondente.
+
+18 - Faça um programa que calcule o determinante de uma matriz 3X3.
+
+Instituto Federal Catarinense	
+Bacharelado em Ciência da Computação
+Linguagem de Programação I			
+Professor: Diego Ricardo Krohl
+					
+Exercícios – Lista 4
+
